@@ -132,7 +132,7 @@ body{
 #hero{
     height: 90vh;
     width: 100%;
-    background-image: url(/images/homeBanner.jpg);
+    background-image: url(../images/homeBanner.jpg);
     background-position: top 25% right 5%;
     background-size: cover;
     padding: 0 180px;
@@ -405,7 +405,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("/images/Banner/gifts_deals.jpg");
+    background-image: url("../images/Banner/gifts_deals.jpg");
     min-width: 670px;
     height: 50vh;
     background-size: cover;
@@ -414,7 +414,7 @@ button.white{
 }
 
 #sm-banner .banner-box2{
-    background-image: url("/images/Banner/banner-box2.jpeg");
+    background-image: url("../images/Banner/banner-box2.jpeg");
 }
 
 #sm-banner h4 {
@@ -454,7 +454,7 @@ button.white{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("/images/Banner/cake.jpg");
+    background-image: url("../images/Banner/cake.jpg");
     min-width: 30%;
     height: 30vh;
     background-size: cover;
@@ -464,11 +464,11 @@ button.white{
 }
 
 #banner3 .banner-box2{
-    background-image: url("/images/Banner/Flower.jpg");
+    background-image: url("../images/Banner/Flower.jpg");
 }
 
 #banner3 .banner-box3{
-    background-image: url("/images/Banner/Teddy.jpg");
+    background-image: url("../images/Banner/Teddy.jpg");
 }
 
 #banner3 h2{
